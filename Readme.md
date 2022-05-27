@@ -1,4 +1,5 @@
-# Hi
+# Hi here is
+# Git general commands
 
 *keywords
 	cd <filepath>
